@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526905426 source:c:\users\henri\documents\github\operational-systems\schedulerprocess\scheduler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<signal.h>
+	<sys/time.h>
+	<errno.h>
+	<windows.h>
+	"libScheduler.h"
+
+1526909790 c:\users\henri\documents\github\operational-systems\schedulerprocess\libscheduler.h
+
+1527081037 source:c:\users\henri\documents\github\operational-systems\schedulerprocess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<signal.h>
+	<sys/time.h>
+	<errno.h>
+	<windows.h>
+	"libScheduler.h"
+

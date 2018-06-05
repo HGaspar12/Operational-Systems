@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1526854588 source:c:\users\henri\documents\github\operational-systems\schedulersimulator\escalonador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<signal.h>
+	<sys/time.h>
+	<errno.h>
+	<windows.h>
+	"bibEscalonador.h"
+
+1526853550 c:\users\henri\documents\github\operational-systems\schedulersimulator\bibescalonador.h
+
+1526856593 source:c:\users\henri\documents\github\operational-systems\schedulersimulator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<signal.h>
+	<sys/time.h>
+	<errno.h>
+	<windows.h>
+	"bibEscalonador.h"
+
